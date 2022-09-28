@@ -24,7 +24,7 @@ All binaries in this repository are compiled from the official WebRTC source cod
   s.homepage         = 'https://github.com/foresightMobile/webrtc-swift.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author           = { 'artemHrebinikChisw' => '75477796+artemHrebinikChisw@users.noreply.github.com' }
-  s.source           = { :git => 'https://github.com/foresightMobile/WebRTC.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/foresightMobile/webrtc-swift.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
   s.osx.deployment_target = '10.11'
